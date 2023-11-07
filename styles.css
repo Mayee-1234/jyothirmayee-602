@@ -5,7 +5,6 @@ body {
 .product {
     display: grid;
   grid-template-rows: auto auto auto auto;
-
   }
 .product{
     display: flex;
